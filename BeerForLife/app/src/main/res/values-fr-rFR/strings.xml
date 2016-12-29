@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="startMusic">Lancer la musique</string>
+    <string name="launchNotif">Envoyer une notification</string>
+    <string name="download">Télécharger liste de bières</string>
+    <string name="chooseDate">Choisir une date</string>
+    <string name="beerName"> Nom de la bière</string>
+    <string name="beerGrade"> Note </string>
+    <string name="beerDate"> Date de création</string>
+    <string name="beerDescription"> Description</string>
+    <string name="beerList"> Liste de bières </string>
+
+
+
+
+
+
+</resources>
